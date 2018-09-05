@@ -1,9 +1,10 @@
 ## Amp Promises: From Generators To Coroutines
 
+or how to do async concurrency in php.
+
 In his article Serega Zhuk https://sergeyzhuk.me/2018/02/15/amp-coroutines/ explains how php generators can work with coroutine and promises.
 
 This is interesting for non blocking IO.
-
 
 more on the subject:
 * https://sergeyzhuk.me/2018/07/26/phproundtable-generators-coroutines/
